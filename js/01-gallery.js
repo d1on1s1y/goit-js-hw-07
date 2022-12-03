@@ -60,28 +60,4 @@ window.addEventListener('keydown', onEscClose);
 
 
 
-//let modalWindow;
-//let onClickClose;
-//function onGalleryContainerClick(evt) {
-//  evt.preventDefault();
-//
-//  if (!evt.target.classList.contains('galery__image')) {
-//    return;
-//  }
-//  modalWindow = basicLightbox.create(
-//    `<img src = "${evt.target.dataset.source}">`
-//  );
-//  modalWindow.show(onClickClose);
-//
-// document.div.classList.add('basicLightbox');
-//window.addEventListener('keydown', onEscClose);
-
-//  }
-
-//  function onEscClose (event){
-    //modalWindow.close();
- // }
-// Change code below this line
-
-
 
